@@ -1,9 +1,9 @@
 theme: jekyll-theme-leap-day
-title: Project Proposal
+title: Solver App
 show_downloads: true
 titles_from_headings:
   enabled: false
 author:
   name: "Java+Android Student"
-  href: "https://ddc-java.github.io"
+  href: " https://ddc-java-10.github.io/capstone-solverapp/"
   
