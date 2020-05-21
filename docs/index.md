@@ -1,5 +1,5 @@
 ---
-title:Solver App
+title: Solver App
 
 ---
 
