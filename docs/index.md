@@ -28,6 +28,11 @@ Solver covers education levels. Our learning community is reliable - the quality
 
 • User will able to search data for recently asked question and search for question which are not answered.
 
+##  Data persistence
+ 
+   • Statictis for all pending question to be answered.
+   
+   • Collection of all recently updated answer.
 
 * **Device/external services**
 
@@ -52,4 +57,5 @@ Solver covers education levels. Our learning community is reliable - the quality
 
    • Adjust your Android settings for more privacy and security.
 
+ * **Reference Link** : https://play.google.com/store/apps/details?id=co.brainly&hl=en_US
 
